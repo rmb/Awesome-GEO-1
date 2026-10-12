@@ -53,3 +53,4 @@ This is a niche area, which is increasingly receiving attention from the communi
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
+- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
