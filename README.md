@@ -52,3 +52,4 @@ This is a niche area, which is increasingly receiving attention from the communi
 - AI Search Citation Benchmark for RAG vs Fine-Tuning — Reproducible Chinese-language dataset with run-level displayed sources from Qwen, Kimi, and Gemini plus strict unbranded Baidu snapshots; includes JSON/CSV downloads, hashes, and explicit zero-result retention. [[Dataset]](https://course.dragonai.tech/research/ai-search-rag-finetuning-citations-2026-07)
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
+- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
